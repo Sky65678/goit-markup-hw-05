@@ -576,6 +576,9 @@ span {
   fill: #f4f4fd;
 }
 
+.footer-social-media-container {
+  margin-right: 80px;
+}
 /* ===============================================
 
 =======================Footer subscribe==================== */
@@ -614,8 +617,7 @@ span {
 
 .footer-form-btn {
   border-radius: 4px;
-  padding: 24px 8px;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   font-weight: 500;
   font-size: 16px;
@@ -625,6 +627,9 @@ span {
   color: #ffffff;
   background-color: #4d5ae5;
   border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .footer-form-icon {
