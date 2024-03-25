@@ -728,6 +728,10 @@ span {
   margin-bottom: 8px;
 }
 
+.margin-bottom {
+  margin-bottom: 16px;
+}
+
 .rewie-form-field-label {
   display: block;
   font-size: 12px;
