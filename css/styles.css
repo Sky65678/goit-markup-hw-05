@@ -725,7 +725,6 @@ span {
 }
 
 .rewie-form-field-wrapper {
-  margin-bottom: 8px;
   margin-bottom: 16px;
 }
 
@@ -740,6 +739,7 @@ span {
 
 .rewie-form-input-wrapper {
   position: relative;
+  margin-bottom: 8px;
 }
 
 .rewie-form-input {
